@@ -1,5 +1,5 @@
-describe("First Homepage Test", () => {
-  it("should visit homep[age", () => {
+describe("Homepage Test", () => {
+  it("should visit homepage", () => {
     cy.visit("/");
   });
 
